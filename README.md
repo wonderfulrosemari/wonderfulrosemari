@@ -10,10 +10,10 @@ Java/Spring 기반 백엔드 개발과 AI를 활용한 서비스 구현에 관�
 
 | 프로젝트 | 소개 및 기여 | 기술 |
 |---|---|---|
-| [Catch Me](https://jinhyeok-s-development-blog.github.io/projects/catch-me) | 실종·목격 제보와 입양을 연결하는 반려동물 플랫폼. 팀장(PM), 백엔드·데이터 연동을 맡았고 CLIP 검증 정확도를 86.33%에서 95%로 개선했습니다. [GitHub](https://github.com/CatchMeIfYouCan-WebKit) | Java, Spring Boot, MariaDB, FastAPI, CLIP |
-| [Journal Mate](https://jinhyeok-s-development-blog.github.io/projects/journal-mate) | 논문과 웹페이지를 요약·번역·비교하는 Chrome 확장 프로그램. 요약·번역·검증 역할을 나눈 멀티에이전트 흐름을 구현했습니다. 한국정보기술학회 우수논문상 동상. [GitHub](https://github.com/wonderfulrosemari/Journal-Mate) | React, Manifest V3, Express, OpenAI API, PDF.js |
-| [홀가(家)분](https://jinhyeok-s-development-blog.github.io/projects/jibhyeonjeon) | 시니어의 안전한 다운사이징과 금융상품 추천 서비스. 부팀장으로 사용자 데이터 파이프라인, 금융상품 추천, 회원관리와 모니터링을 담당했습니다. [GitHub 조직](https://github.com/PJT29-3team) | Vue.js, Spring, MyBatis, MySQL, BigQuery |
-| [LUNO](https://jinhyeok-s-development-blog.github.io/projects/luno) | 통화 음성과 문자 URL을 분석하는 보이스피싱 위험 판단 앱. 팀장으로 AI 분석 기준·서비스 구조·기능 통합을 맡아 Google Play에 배포했습니다. [GitHub 조직](https://github.com/LUNO-phishing) | Kotlin, Spring Boot, FastAPI, PyTorch, AWS |
+| [Catch Me](https://github.com/CatchMeIfYouCan-WebKit) | 실종·목격 제보와 입양을 연결하는 반려동물 플랫폼. 팀장(PM), 백엔드·데이터 연동을 맡았고 CLIP 검증 정확도를 86.33%에서 95%로 개선했습니다. [GitHub](https://github.com/CatchMeIfYouCan-WebKit) | Java, Spring Boot, MariaDB, FastAPI, CLIP |
+| [Journal Mate](https://github.com/wonderfulrosemari/Journal-Mate) | 논문과 웹페이지를 요약·번역·비교하는 Chrome 확장 프로그램. 요약·번역·검증 역할을 나눈 멀티에이전트 흐름을 구현했습니다. 한국정보기술학회 우수논문상 동상. [GitHub](https://github.com/wonderfulrosemari/Journal-Mate) | React, Manifest V3, Express, OpenAI API, PDF.js |
+| [홀가(家)분](https://github.com/PJT29-3team) | 시니어의 안전한 다운사이징과 금융상품 추천 서비스. 부팀장으로 사용자 데이터 파이프라인, 금융상품 추천, 회원관리와 모니터링을 담당했습니다. [GitHub 조직](https://github.com/PJT29-3team) | Vue.js, Spring, MyBatis, MySQL, BigQuery |
+| [LUNO](https://github.com/LUNO-phishing) | 통화 음성과 문자 URL을 분석하는 보이스피싱 위험 판단 앱. 팀장으로 AI 분석 기준·서비스 구조·기능 통합을 맡아 Google Play에 배포했습니다. [GitHub 조직](https://github.com/LUNO-phishing) | Kotlin, Spring Boot, FastAPI, PyTorch, AWS |
 
 ## Open Source
 
