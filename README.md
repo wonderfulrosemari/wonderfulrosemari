@@ -17,11 +17,11 @@ Java/Spring 기반 백엔드 개발과 AI를 활용한 서비스 구현에 관�
 
 ## Open Source
 
-Spring Security에 병합된 PR 3건:
+### Spring 오픈소스 기여 · Spring Security
 
-- [Prefer dispatcher context for authorize tag beans](https://github.com/spring-projects/spring-security/pull/18822)
-- [Add MessageExpressionAuthorizationManager](https://github.com/spring-projects/spring-security/pull/18813)
-- [Document multipart CSRF header option](https://github.com/spring-projects/spring-security/pull/18757)
+- [PR #18822 · Prefer dispatcher context for authorize tag beans](https://github.com/spring-projects/spring-security/pull/18822) — JSP authorize 태그가 현재 DispatcherServlet 컨텍스트의 보안 빈을 사용하도록 수정했습니다.
+- [PR #18813 · Add MessageExpressionAuthorizationManager](https://github.com/spring-projects/spring-security/pull/18813) — 메시지 표현식 기반 인가를 위한 공개 API를 추가했습니다.
+- [PR #18757 · Document multipart CSRF header option](https://github.com/spring-projects/spring-security/pull/18757) — multipart 요청에서 CSRF 토큰을 HTTP 헤더로 전달하는 방법을 문서에 추가했습니다.
 
 ## Experience & Training
 
